@@ -52,6 +52,7 @@ button {
   border: solid 2px black;
   font-size: 25px;
   margin-top: 10px;
+  visibility: hidden;
 }
 
 .number {
@@ -64,6 +65,7 @@ button {
   font-size: 30px;
   color: #fff;
   text-align: center;
+  visibility: hidden;
 }
 
 .game__field {
